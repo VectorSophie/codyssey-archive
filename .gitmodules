@@ -1,39 +1,42 @@
 [submodule "basic/codyssey-b1-1"]
 	path = basic/codyssey-b1-1
-	url = https://github.com/VectorSophie/codyssey-b1-1.git
+	url = https://github.com/VectorSophie/codyssey-b4-1.git
 [submodule "basic/codyssey-b1-2"]
 	path = basic/codyssey-b1-2
-	url = https://github.com/VectorSophie/codyssey-b1-2.git
+	url = https://github.com/VectorSophie/codyssey-b4-2.git
 [submodule "basic/codyssey-b2-1"]
 	path = basic/codyssey-b2-1
 	url = https://github.com/VectorSophie/codyssey-b2-1.git
+[submodule "basic/codyssey-b2-2"]
+	path = basic/codyssey-b2-2
+	url = https://github.com/Im-Jongseok/Git_Collaboration.git
 [submodule "basic/codyssey-b3-1"]
 	path = basic/codyssey-b3-1
-	url = https://github.com/VectorSophie/codyssey-b3-1.git
+	url = https://github.com/VectorSophie/codyssey-b6-1.git
 [submodule "basic/codyssey-b3-2"]
 	path = basic/codyssey-b3-2
-	url = https://github.com/VectorSophie/codyssey-b3-2.git
+	url = https://github.com/VectorSophie/codyssey-b6-2.git
 [submodule "basic/codyssey-b4-1"]
 	path = basic/codyssey-b4-1
-	url = https://github.com/VectorSophie/codyssey-b4-1.git
+	url = https://github.com/VectorSophie/codyssey-b1-1.git
 [submodule "basic/codyssey-b4-2"]
 	path = basic/codyssey-b4-2
-	url = https://github.com/VectorSophie/codyssey-b4-2.git
+	url = https://github.com/VectorSophie/codyssey-b1-2.git
 [submodule "basic/codyssey-b5-1"]
 	path = basic/codyssey-b5-1
-	url = https://github.com/VectorSophie/codyssey-b5-1.git
+	url = https://github.com/VectorSophie/codyssey-b3-1.git
 [submodule "basic/codyssey-b5-2"]
 	path = basic/codyssey-b5-2
-	url = https://github.com/VectorSophie/codyssey-b5-2.git
-[submodule "basic/codyssey-b5-3"]
-	path = basic/codyssey-b5-3
-	url = https://github.com/VectorSophie/codyssey-b5-3.git
+	url = https://github.com/VectorSophie/codyssey-b3-2.git
 [submodule "basic/codyssey-b6-1"]
 	path = basic/codyssey-b6-1
-	url = https://github.com/VectorSophie/codyssey-b6-1.git
+	url = https://github.com/VectorSophie/codyssey-b5-1.git
 [submodule "basic/codyssey-b6-2"]
 	path = basic/codyssey-b6-2
-	url = https://github.com/VectorSophie/codyssey-b6-2.git
+	url = https://github.com/VectorSophie/codyssey-b5-2.git
+[submodule "basic/codyssey-b6-3"]
+	path = basic/codyssey-b6-3
+	url = https://github.com/VectorSophie/codyssey-b5-3.git
 [submodule "basic/codyssey-b7-1"]
 	path = basic/codyssey-b7-1
 	url = https://github.com/VectorSophie/codyssey-b7-1.git
