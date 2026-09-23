@@ -28,23 +28,23 @@ git submodule update --init --recursive
 
 ## basic/ (bX-X)
 
-디렉터리는 개편된 미션 번호를 따른다. 레포 이름 변경이 완료되기 전까지 링크는 기존 이름을 가리킨다. `b2-2`는 팀 저장소를 그대로 참조한다.
+디렉터리와 개인 과제 레포 이름은 개편된 미션 번호를 따른다. `b2-2`는 팀 저장소를 그대로 참조한다.
 
 | 미션 | 저장소 | 주제 |
 |---|---|---|
-| b1-1 | [codyssey-b4-1](https://github.com/VectorSophie/codyssey-b4-1) | 개발자 포트폴리오 사이트 |
-| b1-2 | [codyssey-b4-2](https://github.com/VectorSophie/codyssey-b4-2) | Bookmark Keeper |
+| b1-1 | [codyssey-b1-1](https://github.com/VectorSophie/codyssey-b1-1) | 개발자 포트폴리오 사이트 |
+| b1-2 | [codyssey-b1-2](https://github.com/VectorSophie/codyssey-b1-2) | Bookmark Keeper |
 | b2-1 | [codyssey-b2-1](https://github.com/VectorSophie/codyssey-b2-1) | 파일 기반 가계부 CLI |
 | b2-2 | [Git_Collaboration](https://github.com/Im-Jongseok/Git_Collaboration) | Git 협업 실습 (3인 팀, 외부 저장소) |
-| b3-1 | [codyssey-b6-1](https://github.com/VectorSophie/codyssey-b6-1) | AWS 웹 서비스 인프라 구축 |
-| b3-2 | [codyssey-b6-2](https://github.com/VectorSophie/codyssey-b6-2) | AI 기반 Git 커밋/PR 자동 생성기 |
-| b4-1 | [codyssey-b1-1](https://github.com/VectorSophie/codyssey-b1-1) | Linux 서버 운영 및 자동화 |
-| b4-2 | [codyssey-b1-2](https://github.com/VectorSophie/codyssey-b1-2) | 시스템 장애 분석 |
-| b5-1 | [codyssey-b3-1](https://github.com/VectorSophie/codyssey-b3-1) | Mini Redis (자료구조 직접 구현) |
-| b5-2 | [codyssey-b3-2](https://github.com/VectorSophie/codyssey-b3-2) | Mini Git — CLI 기반 커밋 그래프 엔진 |
-| b6-1 | [codyssey-b5-1](https://github.com/VectorSophie/codyssey-b5-1) | 온라인 서점 DB (bookstore) |
-| b6-2 | [codyssey-b5-2](https://github.com/VectorSophie/codyssey-b5-2) | FastAPI 메모장 (라우터/서비스/저장소 계층 분리) |
-| b6-3 | [codyssey-b5-3](https://github.com/VectorSophie/codyssey-b5-3) | 도서 대여 서비스 — 인증/인가 + 연관관계 확장 |
+| b3-1 | [codyssey-b3-1](https://github.com/VectorSophie/codyssey-b3-1) | AWS 웹 서비스 인프라 구축 |
+| b3-2 | [codyssey-b3-2](https://github.com/VectorSophie/codyssey-b3-2) | AI 기반 Git 커밋/PR 자동 생성기 |
+| b4-1 | [codyssey-b4-1](https://github.com/VectorSophie/codyssey-b4-1) | Linux 서버 운영 및 자동화 |
+| b4-2 | [codyssey-b4-2](https://github.com/VectorSophie/codyssey-b4-2) | 시스템 장애 분석 |
+| b5-1 | [codyssey-b5-1](https://github.com/VectorSophie/codyssey-b5-1) | Mini Redis (자료구조 직접 구현) |
+| b5-2 | [codyssey-b5-2](https://github.com/VectorSophie/codyssey-b5-2) | Mini Git — CLI 기반 커밋 그래프 엔진 |
+| b6-1 | [codyssey-b6-1](https://github.com/VectorSophie/codyssey-b6-1) | 온라인 서점 DB (bookstore) |
+| b6-2 | [codyssey-b6-2](https://github.com/VectorSophie/codyssey-b6-2) | FastAPI 메모장 (라우터/서비스/저장소 계층 분리) |
+| b6-3 | [codyssey-b6-3](https://github.com/VectorSophie/codyssey-b6-3) | 도서 대여 서비스 — 인증/인가 + 연관관계 확장 |
 | b7-1 | [codyssey-b7-1](https://github.com/VectorSophie/codyssey-b7-1) | EVERYTHING (풀스택 웹 서비스) |
 
 ## advanced/ (aX-X)
